@@ -1,0 +1,31 @@
+.inputFolderWrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.inputFolder,
+.labelFolder {
+  font-size: x-large;
+  margin-left: 10px;
+}
+
+.inputFolderWrapper {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+
+.addButton {
+  size: 25;
+  margin-left: 10px;
+}
+
+.itemWrapper {
+  width: 550px;
+  margin-top: 15;
+  margin-left: 15px;
+  background-color: #f2f2f2;
+}
+.itemText {
+  margin-left: 10px;
+}
